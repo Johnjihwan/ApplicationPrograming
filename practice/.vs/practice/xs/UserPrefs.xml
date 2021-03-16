@@ -1,32 +1,20 @@
 ﻿<Properties StartupConfiguration="{EE27A675-B904-4870-A7D3-0E702420E046}|Default">
   <MonoDevelop.Ide.ItemProperties.practice PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="practice/triangle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="practice/rockPaperScissors.cs">
     <Files>
-      <File FileName="practice/Program.cs" Line="11" Column="28" />
-      <File FileName="practice/MainApp.cs" />
-      <File FileName="practice/MainApp3.cs" />
-      <File FileName="practice/App4.cs" />
-      <File FileName="practice/App5.cs" />
-      <File FileName="practice/app6.cs" />
-      <File FileName="practice/name.cs" />
-      <File FileName="practice/app7.cs" />
-      <File FileName="practice/Result.cs" Line="10" Column="12" />
-      <File FileName="practice/toLikeThat.cs" Line="15" Column="1" />
-      <File FileName="practice/triangle.cs" Line="15" Column="2" />
-      <File FileName="practice/calculate.cs" Line="1" Column="1" />
+      <File FileName="program/Program.cs" Line="32" Column="10" />
+      <File FileName="practice/rockPaperScissors.cs" Line="34" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="practice" expanded="True">
             <Node name="practice" expanded="True">
-              <Node name="triangle.cs" selected="True" />
+              <Node name="rockPaperScissors.cs" selected="True" />
             </Node>
+            <Node name="program" expanded="True" />
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
